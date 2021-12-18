@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-18T12:50:07.879Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.57" etag="_VD6-yHWHRHKBVjHFKFL" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-18T13:10:38.496Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.57" etag="ZCQIRVvHoHI4E-92KXVr" version="15.9.6" type="github">
   <diagram id="cXc33DGXLgx8d8EKlPw0" name="Page-1">
-    <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -51,6 +51,48 @@
         </mxCell>
         <mxCell id="fdq9fxZ1Vu2edUadi-i_-12" value="&lt;span style=&quot;font-size: 14px&quot;&gt;同位语从句&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="225" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-27" value="主语从句连接词" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;align=center;pointerEvents=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="-320" width="580" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-28" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;" vertex="1" parent="fdq9fxZ1Vu2edUadi-i_-27">
+          <mxGeometry y="30" width="580" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-29" value="从属连词" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;fontSize=14;" vertex="1" parent="fdq9fxZ1Vu2edUadi-i_-28">
+          <mxGeometry width="100" height="40" as="geometry">
+            <mxRectangle width="100" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-30" value="that, weather&amp;nbsp;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;fontSize=14;" vertex="1" parent="fdq9fxZ1Vu2edUadi-i_-28">
+          <mxGeometry x="100" width="480" height="40" as="geometry">
+            <mxRectangle width="480" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-32" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;" vertex="1" parent="fdq9fxZ1Vu2edUadi-i_-27">
+          <mxGeometry y="70" width="580" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-33" value="连接代词" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;fontSize=14;" vertex="1" parent="fdq9fxZ1Vu2edUadi-i_-32">
+          <mxGeometry width="100" height="50" as="geometry">
+            <mxRectangle width="100" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-34" value="who, whom, whoever, whose, what, whatever, which, whichever" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;fontSize=14;" vertex="1" parent="fdq9fxZ1Vu2edUadi-i_-32">
+          <mxGeometry x="100" width="480" height="50" as="geometry">
+            <mxRectangle width="480" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-36" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;" vertex="1" parent="fdq9fxZ1Vu2edUadi-i_-27">
+          <mxGeometry y="120" width="580" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-37" value="连接副词" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;fontSize=14;" vertex="1" parent="fdq9fxZ1Vu2edUadi-i_-36">
+          <mxGeometry width="100" height="50" as="geometry">
+            <mxRectangle width="100" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-38" value="when, whenever, where, wherever, how, however, why" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;fontSize=14;" vertex="1" parent="fdq9fxZ1Vu2edUadi-i_-36">
+          <mxGeometry x="100" width="480" height="50" as="geometry">
+            <mxRectangle width="480" height="50" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
