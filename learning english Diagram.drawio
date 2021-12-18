@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-18T13:10:38.496Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.57" etag="ZCQIRVvHoHI4E-92KXVr" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-18T14:38:03.243Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.57" etag="cRVS73sCWLhe98DFBICU" version="15.9.6" type="github">
   <diagram id="cXc33DGXLgx8d8EKlPw0" name="Page-1">
-    <mxGraphModel dx="2249" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3076" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -93,6 +93,45 @@
           <mxGeometry x="100" width="480" height="50" as="geometry">
             <mxRectangle width="480" height="50" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-74" value="&lt;h1&gt;解释&lt;/h1&gt;&lt;p&gt;连接代词在从句做主语、宾语、表语、定语&lt;/p&gt;&lt;p&gt;连接副词在从句中做状语&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-490" y="-330" width="190" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="fdq9fxZ1Vu2edUadi-i_-32" target="fdq9fxZ1Vu2edUadi-i_-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-76" value="&lt;h1&gt;疑问&lt;/h1&gt;&lt;p&gt;关系代词可以做主语、宾语表语，定语，关系副词做状语，所以关系副词后面的从句必须是个完整的句子，而关系代词不需要？&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-490" y="-550" width="190" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="fdq9fxZ1Vu2edUadi-i_-77" target="fdq9fxZ1Vu2edUadi-i_-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="fdq9fxZ1Vu2edUadi-i_-77" target="fdq9fxZ1Vu2edUadi-i_-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-77" value="&lt;span style=&quot;font-size: 14px&quot;&gt;连词&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-850" y="375" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="fdq9fxZ1Vu2edUadi-i_-78" target="fdq9fxZ1Vu2edUadi-i_-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="fdq9fxZ1Vu2edUadi-i_-78" target="fdq9fxZ1Vu2edUadi-i_-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-78" value="&lt;span style=&quot;font-size: 14px&quot;&gt;从属连词&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-700" y="420" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-79" value="&lt;span style=&quot;font-size: 14px&quot;&gt;并列连词&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-700" y="310" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-80" value="&lt;span style=&quot;font-size: 14px&quot;&gt;连接代词&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-540" y="375" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-81" value="&lt;span style=&quot;font-size: 14px&quot;&gt;连词副词&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-540" y="475" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-87" value="&lt;h1&gt;解释&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;color: rgb(18 , 18 , 18) ; font-family: , &amp;#34;blinkmacsystemfont&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;source han sans sc&amp;#34; , &amp;#34;noto sans cjk sc&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif ; font-size: 15px ; background-color: rgb(255 , 255 , 255)&quot;&gt;关系代词有代指人的who,whom,that,代指物的which,that， 关系副词where,when,why等。关系代词在定语从句中一定要作从句的主干成分。如果从句主干成分已经完整，说明从句不缺主干只缺状语，则只能用关系副词做从句的状语。&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-840" y="15" width="310" height="175" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
