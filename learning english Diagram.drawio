@@ -1,11 +1,56 @@
-<mxfile host="app.diagrams.net" modified="2021-12-18T12:06:10.527Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.57" etag="Q7GymQMJ8jGHeIh6UfaE" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-18T12:50:07.879Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.57" etag="_VD6-yHWHRHKBVjHFKFL" version="15.9.6" type="github">
   <diagram id="cXc33DGXLgx8d8EKlPw0" name="Page-1">
     <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="fdq9fxZ1Vu2edUadi-i_-1" value="英语学习" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="200" width="140" height="70" as="geometry" />
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="fdq9fxZ1Vu2edUadi-i_-1" target="fdq9fxZ1Vu2edUadi-i_-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="fdq9fxZ1Vu2edUadi-i_-1" target="fdq9fxZ1Vu2edUadi-i_-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="fdq9fxZ1Vu2edUadi-i_-1" target="fdq9fxZ1Vu2edUadi-i_-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-1" value="&lt;span style=&quot;font-size: 14px&quot;&gt;从句&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="200" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="fdq9fxZ1Vu2edUadi-i_-2" target="fdq9fxZ1Vu2edUadi-i_-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="fdq9fxZ1Vu2edUadi-i_-2" target="fdq9fxZ1Vu2edUadi-i_-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="fdq9fxZ1Vu2edUadi-i_-2" target="fdq9fxZ1Vu2edUadi-i_-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="fdq9fxZ1Vu2edUadi-i_-2" target="fdq9fxZ1Vu2edUadi-i_-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-2" value="&lt;span style=&quot;font-size: 14px&quot;&gt;名词性从句&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="120" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-3" value="&lt;span style=&quot;font-size: 14px&quot;&gt;定语从句&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="200" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-4" value="&lt;span style=&quot;font-size: 14px&quot;&gt;状语从句&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="280" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-8" value="&lt;h1&gt;解释&lt;/h1&gt;&lt;div&gt;1.名词性从句：用句子代替名词&lt;/div&gt;&lt;div&gt;2.定语从句：用句子代替形容词&lt;/div&gt;&lt;div&gt;3.状语从句：用句子代替副词&lt;/div&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="20" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-9" value="&lt;span style=&quot;font-size: 14px&quot;&gt;主语从句&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="15" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-10" value="&lt;span style=&quot;font-size: 14px&quot;&gt;宾语从句&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="85" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-11" value="&lt;span style=&quot;font-size: 14px&quot;&gt;表语从句&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="155" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-12" value="&lt;span style=&quot;font-size: 14px&quot;&gt;同位语从句&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="225" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
