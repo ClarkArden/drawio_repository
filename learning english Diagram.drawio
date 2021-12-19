@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-19T01:50:35.288Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.57" etag="HjKEyF3vU46JMKYL_jKg" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-19T02:12:40.330Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.57" etag="b6xN91rV6FG2Y2FIiVUX" version="15.9.6" type="github">
   <diagram id="cXc33DGXLgx8d8EKlPw0" name="Page-1">
     <mxGraphModel dx="3076" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -49,6 +49,12 @@
         <mxCell id="fdq9fxZ1Vu2edUadi-i_-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="fdq9fxZ1Vu2edUadi-i_-9" target="fdq9fxZ1Vu2edUadi-i_-127">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="fdq9fxZ1Vu2edUadi-i_-9" target="fdq9fxZ1Vu2edUadi-i_-133">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="fdq9fxZ1Vu2edUadi-i_-9" target="fdq9fxZ1Vu2edUadi-i_-135">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fdq9fxZ1Vu2edUadi-i_-9" value="&lt;span style=&quot;font-size: 14px&quot;&gt;主语从句&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="15" width="110" height="40" as="geometry" />
         </mxCell>
@@ -62,7 +68,7 @@
           <mxGeometry x="160" y="225" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fdq9fxZ1Vu2edUadi-i_-27" value="主语从句连接词" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;align=center;pointerEvents=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-240" y="-320" width="580" height="170" as="geometry" />
+          <mxGeometry x="-460" y="-590" width="580" height="170" as="geometry" />
         </mxCell>
         <mxCell id="fdq9fxZ1Vu2edUadi-i_-28" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;" vertex="1" parent="fdq9fxZ1Vu2edUadi-i_-27">
           <mxGeometry y="30" width="580" height="40" as="geometry" />
@@ -104,13 +110,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fdq9fxZ1Vu2edUadi-i_-74" value="&lt;h1&gt;解释&lt;/h1&gt;&lt;p&gt;连接代词在从句做主语、宾语、表语、定语&lt;/p&gt;&lt;p&gt;连接副词在从句中做状语&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-490" y="-330" width="190" height="160" as="geometry" />
+          <mxGeometry x="-710" y="-600" width="190" height="160" as="geometry" />
         </mxCell>
         <mxCell id="fdq9fxZ1Vu2edUadi-i_-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="fdq9fxZ1Vu2edUadi-i_-32" target="fdq9fxZ1Vu2edUadi-i_-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fdq9fxZ1Vu2edUadi-i_-76" value="&lt;h1&gt;疑问&lt;/h1&gt;&lt;p&gt;关系代词可以做主语、宾语表语，定语，关系副词做状语，所以关系副词后面的从句必须是个完整的句子，而关系代词不需要？&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-490" y="-550" width="190" height="160" as="geometry" />
+          <mxGeometry x="-710" y="-820" width="190" height="160" as="geometry" />
         </mxCell>
         <mxCell id="fdq9fxZ1Vu2edUadi-i_-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="fdq9fxZ1Vu2edUadi-i_-77" target="fdq9fxZ1Vu2edUadi-i_-79">
           <mxGeometry relative="1" as="geometry" />
@@ -251,6 +257,72 @@
         </mxCell>
         <mxCell id="fdq9fxZ1Vu2edUadi-i_-129" value="&lt;div&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;What we need are good doctors.&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="-100" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-133" value="&lt;span style=&quot;font-size: 14px&quot;&gt;主语从句置于句首表示“是否”时，只能用weather而不能用If&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="-160" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="fdq9fxZ1Vu2edUadi-i_-135" target="fdq9fxZ1Vu2edUadi-i_-137">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="fdq9fxZ1Vu2edUadi-i_-135" target="fdq9fxZ1Vu2edUadi-i_-138">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="fdq9fxZ1Vu2edUadi-i_-135" target="fdq9fxZ1Vu2edUadi-i_-139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="fdq9fxZ1Vu2edUadi-i_-135" target="fdq9fxZ1Vu2edUadi-i_-141">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="fdq9fxZ1Vu2edUadi-i_-135" target="fdq9fxZ1Vu2edUadi-i_-142">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-135" value="&lt;span style=&quot;font-size: 14px&quot;&gt;主语从句不可位于句首的五种情况&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="-220" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="fdq9fxZ1Vu2edUadi-i_-137" target="fdq9fxZ1Vu2edUadi-i_-149">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-137" value="&lt;div&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;If引导的主语从句&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="-400" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="fdq9fxZ1Vu2edUadi-i_-138" target="fdq9fxZ1Vu2edUadi-i_-150">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-138" value="&lt;div&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;It is said 结构中的主语从句&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="-340" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="fdq9fxZ1Vu2edUadi-i_-139" target="fdq9fxZ1Vu2edUadi-i_-151">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-139" value="&lt;div&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;It happens, It occurs结构中的主语从句&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="-280" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="fdq9fxZ1Vu2edUadi-i_-141" target="fdq9fxZ1Vu2edUadi-i_-152">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-141" value="&lt;span style=&quot;font-size: 14px&quot;&gt;It doesn’t matter how/whether …结构中的主语从句&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="-220" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="fdq9fxZ1Vu2edUadi-i_-142" target="fdq9fxZ1Vu2edUadi-i_-153">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-142" value="&lt;span style=&quot;font-size: 14px&quot;&gt;含主语从句的复合句是疑问句时,主语从句不可提前.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="-160" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-149" value="&lt;div&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;it is uncertain if he will leave for Beijing tomorrow.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="-400" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-150" value="&lt;div&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;It is said that President Jingo will visit our school next week.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="-340" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-151" value="&lt;div&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;It occurred to him that he failed in the examination.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="-280" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-152" value="&lt;div&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;It doesn’t matter whether he is wrong or not.&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="-220" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-153" value="&lt;div&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Is it likely that it will rain in the evening?&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="-160" width="400" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
