@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-19T14:16:54.870Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.57" etag="FtMkka5bAMzUtTT4Dewr" version="16.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-19T14:52:34.125Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.57" etag="Zdbd6vN1snvx8rZfxInn" version="16.0.0" type="github">
   <diagram id="cXc33DGXLgx8d8EKlPw0" name="Page-1">
     <mxGraphModel dx="3076" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -506,6 +506,69 @@
         </mxCell>
         <mxCell id="gS3lgQ0bvfWNoaPxvp5E-62" value="&lt;span style=&quot;font-size: 14px&quot;&gt;同位语从句，when与先行词不想当&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1426" y="855" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="gS3lgQ0bvfWNoaPxvp5E-66" target="gS3lgQ0bvfWNoaPxvp5E-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="gS3lgQ0bvfWNoaPxvp5E-66" target="gS3lgQ0bvfWNoaPxvp5E-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="gS3lgQ0bvfWNoaPxvp5E-66" target="gS3lgQ0bvfWNoaPxvp5E-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="gS3lgQ0bvfWNoaPxvp5E-66" target="gS3lgQ0bvfWNoaPxvp5E-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="gS3lgQ0bvfWNoaPxvp5E-66" target="gS3lgQ0bvfWNoaPxvp5E-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-66" value="&lt;span style=&quot;font-size: 14px&quot;&gt;五大基本句型&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1580" y="-870" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="gS3lgQ0bvfWNoaPxvp5E-67" target="gS3lgQ0bvfWNoaPxvp5E-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-67" value="&lt;span style=&quot;font-size: 14px&quot;&gt;主 + 谓&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1400" y="-1010" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-68" value="&lt;span style=&quot;font-size: 14px&quot;&gt;I runs&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1210" y="-1010" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="gS3lgQ0bvfWNoaPxvp5E-69" target="gS3lgQ0bvfWNoaPxvp5E-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-69" value="&lt;span style=&quot;font-size: 14px&quot;&gt;主 + 谓 + 宾&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1400" y="-940" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-70" value="&lt;span style=&quot;font-size: 14px&quot;&gt;I love you&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1210" y="-940" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="gS3lgQ0bvfWNoaPxvp5E-71" target="gS3lgQ0bvfWNoaPxvp5E-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-71" value="&lt;span style=&quot;font-size: 14px&quot;&gt;主 + 系 + 表&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1400" y="-870" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-72" value="&lt;span style=&quot;font-size: 14px&quot;&gt;He is kind&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1210" y="-870" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="gS3lgQ0bvfWNoaPxvp5E-73" target="gS3lgQ0bvfWNoaPxvp5E-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-73" value="&lt;span style=&quot;font-size: 14px&quot;&gt;主 + 谓 + 宾 + 宾&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1399" y="-805" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-74" value="&lt;div&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;She showed me a new bag.&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1210" y="-805" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;" edge="1" parent="1" source="gS3lgQ0bvfWNoaPxvp5E-75" target="gS3lgQ0bvfWNoaPxvp5E-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-75" value="&lt;span style=&quot;font-size: 14px&quot;&gt;主 + 谓 + 宾 + 宾补&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1400" y="-735" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-76" value="&lt;div&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;We should keep our relationship pure.&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1210" y="-735" width="250" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
