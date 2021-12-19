@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-18T14:38:03.243Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.57" etag="cRVS73sCWLhe98DFBICU" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-19T01:50:35.288Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.57" etag="HjKEyF3vU46JMKYL_jKg" version="15.9.6" type="github">
   <diagram id="cXc33DGXLgx8d8EKlPw0" name="Page-1">
     <mxGraphModel dx="3076" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -39,6 +39,15 @@
         </mxCell>
         <mxCell id="fdq9fxZ1Vu2edUadi-i_-8" value="&lt;h1&gt;解释&lt;/h1&gt;&lt;div&gt;1.名词性从句：用句子代替名词&lt;/div&gt;&lt;div&gt;2.定语从句：用句子代替形容词&lt;/div&gt;&lt;div&gt;3.状语从句：用句子代替副词&lt;/div&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-350" y="20" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="fdq9fxZ1Vu2edUadi-i_-9" target="fdq9fxZ1Vu2edUadi-i_-122">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="fdq9fxZ1Vu2edUadi-i_-9" target="fdq9fxZ1Vu2edUadi-i_-126">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="fdq9fxZ1Vu2edUadi-i_-9" target="fdq9fxZ1Vu2edUadi-i_-127">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fdq9fxZ1Vu2edUadi-i_-9" value="&lt;span style=&quot;font-size: 14px&quot;&gt;主语从句&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="15" width="110" height="40" as="geometry" />
@@ -110,7 +119,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fdq9fxZ1Vu2edUadi-i_-77" value="&lt;span style=&quot;font-size: 14px&quot;&gt;连词&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-850" y="375" width="110" height="40" as="geometry" />
+          <mxGeometry x="-850" y="895" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fdq9fxZ1Vu2edUadi-i_-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="fdq9fxZ1Vu2edUadi-i_-78" target="fdq9fxZ1Vu2edUadi-i_-80">
           <mxGeometry relative="1" as="geometry" />
@@ -119,19 +128,129 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fdq9fxZ1Vu2edUadi-i_-78" value="&lt;span style=&quot;font-size: 14px&quot;&gt;从属连词&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-700" y="420" width="110" height="40" as="geometry" />
+          <mxGeometry x="-700" y="940" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fdq9fxZ1Vu2edUadi-i_-79" value="&lt;span style=&quot;font-size: 14px&quot;&gt;并列连词&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-700" y="310" width="110" height="40" as="geometry" />
+          <mxGeometry x="-700" y="830" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fdq9fxZ1Vu2edUadi-i_-80" value="&lt;span style=&quot;font-size: 14px&quot;&gt;连接代词&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-540" y="375" width="110" height="40" as="geometry" />
+          <mxGeometry x="-540" y="895" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fdq9fxZ1Vu2edUadi-i_-81" value="&lt;span style=&quot;font-size: 14px&quot;&gt;连词副词&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-540" y="475" width="110" height="40" as="geometry" />
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="fdq9fxZ1Vu2edUadi-i_-81" target="fdq9fxZ1Vu2edUadi-i_-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="fdq9fxZ1Vu2edUadi-i_-81" target="fdq9fxZ1Vu2edUadi-i_-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-81" value="&lt;span style=&quot;font-size: 14px&quot;&gt;连接副词&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-540" y="995" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fdq9fxZ1Vu2edUadi-i_-87" value="&lt;h1&gt;解释&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;color: rgb(18 , 18 , 18) ; font-family: , &amp;#34;blinkmacsystemfont&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;source han sans sc&amp;#34; , &amp;#34;noto sans cjk sc&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif ; font-size: 15px ; background-color: rgb(255 , 255 , 255)&quot;&gt;关系代词有代指人的who,whom,that,代指物的which,that， 关系副词where,when,why等。关系代词在定语从句中一定要作从句的主干成分。如果从句主干成分已经完整，说明从句不缺主干只缺状语，则只能用关系副词做从句的状语。&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-840" y="15" width="310" height="175" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-88" value="&lt;h1&gt;1&lt;/h1&gt;&lt;p&gt;连接副词冠于任何一个从句前，该从句就变成状语从句&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-720" y="1190" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-89" value="&lt;h1&gt;连接副词位置&lt;/h1&gt;&lt;div&gt;任何连接副词所引导的从句若置于主句之后，两句之间通常没有逗号；但状语从句若置于主句之前，两句之间通常要加逗号&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-720" y="1465" width="350" height="131" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-91" value="&lt;h1&gt;注意&lt;/h1&gt;&lt;p&gt;表条件的连接副词(如when，if,&amp;nbsp; once )形成的条件句子,若用来表示将来状态时，从句用一般现在时或者现在完成时，主句时态用将来时。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-720" y="1325" width="400" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="fdq9fxZ1Vu2edUadi-i_-92" target="fdq9fxZ1Vu2edUadi-i_-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="fdq9fxZ1Vu2edUadi-i_-92" target="fdq9fxZ1Vu2edUadi-i_-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-92" value="&lt;span style=&quot;font-size: 14px&quot;&gt;连接句子或从句的连接副词&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="955" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="fdq9fxZ1Vu2edUadi-i_-93" target="fdq9fxZ1Vu2edUadi-i_-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="fdq9fxZ1Vu2edUadi-i_-93" target="fdq9fxZ1Vu2edUadi-i_-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-93" value="&lt;span style=&quot;font-size: 14px&quot;&gt;引导从句或不定式的连接副词&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="1120" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-96" value="&lt;span style=&quot;font-size: 14px&quot;&gt;相当于并列连词，使用前通常用分号或者句号，若前用逗号通常有并列连词（and）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="915" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-97" value="&lt;span style=&quot;font-size: 14px&quot;&gt;可位于居首、句中、句末(如However)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="980" width="265" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-98" value="&lt;span style=&quot;font-size: 14px&quot;&gt;Tell me when we shall leave.&lt;br&gt;Tell me when to leave.&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-55" y="1090" width="255" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-99" value="&lt;span style=&quot;font-size: 14px&quot;&gt;连接副词why不能跟不定式&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-55" y="1169" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-100" value="连接副词" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;align=center;pointerEvents=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="1460" width="450" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-105" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;" vertex="1" parent="fdq9fxZ1Vu2edUadi-i_-100">
+          <mxGeometry y="30" width="450" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-106" value="连接副词或从句" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;fontSize=14;" vertex="1" parent="fdq9fxZ1Vu2edUadi-i_-105">
+          <mxGeometry width="140" height="40" as="geometry">
+            <mxRectangle width="140" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-107" value="therefore, besides, otherwise, however, moreover, still, thus, meanwhile" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;fontSize=14;" vertex="1" parent="fdq9fxZ1Vu2edUadi-i_-105">
+          <mxGeometry x="140" width="310" height="40" as="geometry">
+            <mxRectangle width="310" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-101" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;" vertex="1" parent="fdq9fxZ1Vu2edUadi-i_-100">
+          <mxGeometry y="70" width="450" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-102" value="引导句子或不定式" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;fontSize=14;" vertex="1" parent="fdq9fxZ1Vu2edUadi-i_-101">
+          <mxGeometry width="140" height="40" as="geometry">
+            <mxRectangle width="140" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-103" value="when, where, how, why" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;fontSize=14;" vertex="1" parent="fdq9fxZ1Vu2edUadi-i_-101">
+          <mxGeometry x="140" width="310" height="40" as="geometry">
+            <mxRectangle width="310" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="fdq9fxZ1Vu2edUadi-i_-117" target="fdq9fxZ1Vu2edUadi-i_-118">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="fdq9fxZ1Vu2edUadi-i_-117" target="fdq9fxZ1Vu2edUadi-i_-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-117" value="&lt;span style=&quot;font-size: 14px&quot;&gt;不可省略的连接词&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-840" y="630" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-118" value="&lt;span style=&quot;font-size: 14px&quot;&gt;介词后的连词&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-680" y="580" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-119" value="&lt;span style=&quot;font-size: 14px&quot;&gt;主句从句同位语从句的连词&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-680" y="670" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="fdq9fxZ1Vu2edUadi-i_-122" target="fdq9fxZ1Vu2edUadi-i_-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-122" value="&lt;span style=&quot;font-size: 14px&quot;&gt;大部分连接词引导的主语从句通常可以置于句末，用 it 充当形式主语&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="15" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-124" value="&lt;span style=&quot;font-size: 14px&quot;&gt;It is not important who will go.&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="15" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-126" value="&lt;span style=&quot;font-size: 14px&quot;&gt;主语从句的连接词that无实际意义，但不可省略。&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="-40" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="fdq9fxZ1Vu2edUadi-i_-127" target="fdq9fxZ1Vu2edUadi-i_-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-127" value="&lt;span style=&quot;font-size: 14px&quot;&gt;主语从句大多数是第三人称单数，但what视情况而定&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="-100" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fdq9fxZ1Vu2edUadi-i_-129" value="&lt;div&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;What we need are good doctors.&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="-100" width="290" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
