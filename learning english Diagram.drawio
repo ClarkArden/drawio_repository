@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-20T03:03:35.488Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.57" etag="06p30QVLbjKD6OKbQDRe" version="16.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-22T08:35:52.065Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.57" etag="Oi4wIdDJ2_Zvq6Kg_6Ze" version="16.0.0" type="github">
   <diagram id="cXc33DGXLgx8d8EKlPw0" name="Page-1">
-    <mxGraphModel dx="3903" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4061" dy="2016" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -32,13 +32,26 @@
           <mxGeometry y="120" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gS3lgQ0bvfWNoaPxvp5E-188" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="fdq9fxZ1Vu2edUadi-i_-3" target="gS3lgQ0bvfWNoaPxvp5E-180">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="1590" />
+              <mxPoint x="140" y="1310" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="gS3lgQ0bvfWNoaPxvp5E-225" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="fdq9fxZ1Vu2edUadi-i_-3" target="gS3lgQ0bvfWNoaPxvp5E-218">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="140" y="1590" />
               <mxPoint x="140" y="1774" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-251" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="fdq9fxZ1Vu2edUadi-i_-3" target="gS3lgQ0bvfWNoaPxvp5E-250">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="1590" />
+              <mxPoint x="140" y="2180" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -587,6 +600,12 @@
         <mxCell id="gS3lgQ0bvfWNoaPxvp5E-76" value="&lt;div&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;We should keep our relationship pure.&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1450" y="-725" width="250" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-248" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;" edge="1" parent="1" source="gS3lgQ0bvfWNoaPxvp5E-88" target="gS3lgQ0bvfWNoaPxvp5E-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-249" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="gS3lgQ0bvfWNoaPxvp5E-88" target="gS3lgQ0bvfWNoaPxvp5E-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gS3lgQ0bvfWNoaPxvp5E-88" value="&lt;span style=&quot;font-size: 14px&quot;&gt;双宾语&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1140" y="-860" width="110" height="40" as="geometry" />
         </mxCell>
@@ -790,11 +809,20 @@
         <mxCell id="gS3lgQ0bvfWNoaPxvp5E-204" value="&lt;span style=&quot;font-size: 14px&quot;&gt;as(主宾）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="940" y="1230" width="110" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-287" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;" edge="1" parent="1" source="gS3lgQ0bvfWNoaPxvp5E-208" target="gS3lgQ0bvfWNoaPxvp5E-278">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gS3lgQ0bvfWNoaPxvp5E-208" value="&lt;span style=&quot;font-size: 14px&quot;&gt;when(时间)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="745" y="1290" width="110" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-286" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="gS3lgQ0bvfWNoaPxvp5E-209" target="gS3lgQ0bvfWNoaPxvp5E-279">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gS3lgQ0bvfWNoaPxvp5E-209" value="&lt;span style=&quot;font-size: 14px&quot;&gt;where(地点)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="745" y="1350" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-285" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;" edge="1" parent="1" source="gS3lgQ0bvfWNoaPxvp5E-210" target="gS3lgQ0bvfWNoaPxvp5E-280">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gS3lgQ0bvfWNoaPxvp5E-210" value="&lt;span style=&quot;font-size: 14px&quot;&gt;why(原因)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="745" y="1410" width="110" height="40" as="geometry" />
@@ -888,6 +916,108 @@
         </mxCell>
         <mxCell id="gS3lgQ0bvfWNoaPxvp5E-243" value="&lt;div&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;this is the man (that/who) can help you with your english.&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1190" y="1830" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-253" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="gS3lgQ0bvfWNoaPxvp5E-250" target="gS3lgQ0bvfWNoaPxvp5E-252">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-261" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="gS3lgQ0bvfWNoaPxvp5E-250" target="gS3lgQ0bvfWNoaPxvp5E-260">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-250" value="&lt;span style=&quot;font-size: 14px&quot;&gt;特殊用法&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="2160" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-257" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;" edge="1" parent="1" source="gS3lgQ0bvfWNoaPxvp5E-252" target="gS3lgQ0bvfWNoaPxvp5E-255">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-259" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="gS3lgQ0bvfWNoaPxvp5E-252" target="gS3lgQ0bvfWNoaPxvp5E-254">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-252" value="&lt;span style=&quot;font-size: 14px&quot;&gt;只用which不用that&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="2090" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-254" value="&lt;span style=&quot;font-size: 14px&quot;&gt;非限制性定语从句&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="747.5" y="2040" width="155" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-258" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;" edge="1" parent="1" source="gS3lgQ0bvfWNoaPxvp5E-255" target="gS3lgQ0bvfWNoaPxvp5E-256">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-255" value="&lt;span style=&quot;font-size: 14px&quot;&gt;介词之后&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="747.5" y="2090" width="155" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-256" value="&lt;span style=&quot;font-size: 14px&quot;&gt;The building in which Han Mei studied was very old.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="2090" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-274" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="gS3lgQ0bvfWNoaPxvp5E-260" target="gS3lgQ0bvfWNoaPxvp5E-262">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-275" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="gS3lgQ0bvfWNoaPxvp5E-260" target="gS3lgQ0bvfWNoaPxvp5E-263">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-276" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;" edge="1" parent="1" source="gS3lgQ0bvfWNoaPxvp5E-260" target="gS3lgQ0bvfWNoaPxvp5E-264">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-277" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="gS3lgQ0bvfWNoaPxvp5E-260" target="gS3lgQ0bvfWNoaPxvp5E-265">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-260" value="&lt;span style=&quot;font-size: 14px&quot;&gt;只用that不用which&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="2240" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-270" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;" edge="1" parent="1" source="gS3lgQ0bvfWNoaPxvp5E-262" target="gS3lgQ0bvfWNoaPxvp5E-269">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-262" value="&lt;span style=&quot;font-size: 14px&quot;&gt;序数词(如, first)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="747.5" y="2160" width="155" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-271" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;" edge="1" parent="1" source="gS3lgQ0bvfWNoaPxvp5E-263" target="gS3lgQ0bvfWNoaPxvp5E-268">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-263" value="&lt;span style=&quot;font-size: 14px&quot;&gt;最高级(如, best)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="747.5" y="2210" width="155" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-272" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;" edge="1" parent="1" source="gS3lgQ0bvfWNoaPxvp5E-264" target="gS3lgQ0bvfWNoaPxvp5E-267">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-264" value="&lt;span style=&quot;font-size: 14px&quot;&gt;人物混(如, man and car)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="747.5" y="2260" width="155" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-273" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;" edge="1" parent="1" source="gS3lgQ0bvfWNoaPxvp5E-265" target="gS3lgQ0bvfWNoaPxvp5E-266">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-265" value="&lt;span style=&quot;font-size: 14px&quot;&gt;不定代词(如, anythong ，nothing)&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;或者先行词受any，every等词修饰时&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="747.5" y="2310" width="155" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-266" value="&lt;div&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;All that is needed is oil.&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="2320" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-267" value="&lt;div&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;They often talk about the people and the things that they like most.&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="2260" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-268" value="&lt;span style=&quot;font-size: 14px&quot;&gt;This is the first/best film that I have seen since I came here.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="2210" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-269" value="&lt;div&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;This is the first/best film that I have seen since I came here.&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="2160" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-283" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="gS3lgQ0bvfWNoaPxvp5E-278" target="gS3lgQ0bvfWNoaPxvp5E-281">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-284" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="gS3lgQ0bvfWNoaPxvp5E-278" target="gS3lgQ0bvfWNoaPxvp5E-282">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-278" value="&lt;span style=&quot;font-size: 14px&quot;&gt;= 介词 + which&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="1290" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-279" value="&lt;span style=&quot;font-size: 14px&quot;&gt;= 介词 + which&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="1350" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-280" value="&lt;span style=&quot;font-size: 14px&quot;&gt;= for + which&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="1410" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-281" value="&lt;span style=&quot;font-size: 14px&quot;&gt;I got to the city where you live.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="1270" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-282" value="&lt;span style=&quot;font-size: 14px&quot;&gt;I got to the city in which you live.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="1320" width="400" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
