@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-22T14:37:11.994Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.57" etag="VK6DA2hz-8W--qsuI8ul" version="16.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-23T03:13:15.024Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.57" etag="ihn7LlivE5mIy6Pha3Mq" version="16.0.0" type="github">
   <diagram id="cXc33DGXLgx8d8EKlPw0" name="Page-1">
     <mxGraphModel dx="4061" dy="2016" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1158,6 +1158,62 @@
         </mxCell>
         <mxCell id="gS3lgQ0bvfWNoaPxvp5E-331" value="&lt;span style=&quot;font-size: 14px&quot;&gt;Child as he is, he seems to know everything.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1190" y="3160" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-348" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="gS3lgQ0bvfWNoaPxvp5E-336" target="gS3lgQ0bvfWNoaPxvp5E-337">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-352" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;" edge="1" parent="1" source="gS3lgQ0bvfWNoaPxvp5E-336" target="gS3lgQ0bvfWNoaPxvp5E-349">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-336" value="&lt;span style=&quot;font-size: 14px&quot;&gt;平行结构&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1654" y="1980" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-341" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="gS3lgQ0bvfWNoaPxvp5E-337" target="gS3lgQ0bvfWNoaPxvp5E-338">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-342" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="gS3lgQ0bvfWNoaPxvp5E-337" target="gS3lgQ0bvfWNoaPxvp5E-339">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1300" y="1850" />
+              <mxPoint x="-1300" y="1780" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-343" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;" edge="1" parent="1" source="gS3lgQ0bvfWNoaPxvp5E-337" target="gS3lgQ0bvfWNoaPxvp5E-340">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-337" value="&lt;span style=&quot;font-size: 14px&quot;&gt;结构&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1460" y="1830" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-345" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;" edge="1" parent="1" source="gS3lgQ0bvfWNoaPxvp5E-338" target="gS3lgQ0bvfWNoaPxvp5E-344">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-338" value="&lt;span style=&quot;font-size: 14px&quot;&gt;非谓语平行&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1250" y="1681" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-347" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;" edge="1" parent="1" source="gS3lgQ0bvfWNoaPxvp5E-339" target="gS3lgQ0bvfWNoaPxvp5E-346">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-339" value="&lt;span style=&quot;font-size: 14px&quot;&gt;谓语平行&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1250" y="1760" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-340" value="&lt;span style=&quot;font-size: 14px&quot;&gt;从句平行&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1250" y="1840" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-344" value="&lt;span style=&quot;font-size: 14px&quot;&gt;Some find&amp;nbsp; swimming more enjoyable than sitting at home reading.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-980" y="1681" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-346" value="&lt;span style=&quot;font-size: 14px&quot;&gt;This is the lady who lisens to the poor and ministers to their wants&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-980" y="1760" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-351" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="gS3lgQ0bvfWNoaPxvp5E-349" target="gS3lgQ0bvfWNoaPxvp5E-350">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-349" value="&lt;span style=&quot;font-size: 14px&quot;&gt;连词&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1460" y="2000" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-350" value="&lt;span style=&quot;font-size: 14px&quot;&gt;and,but, or,not only... but alse..., as well as, either or, neither nor,&lt;br&gt;rather than, weather or.&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1250" y="2000" width="430" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
