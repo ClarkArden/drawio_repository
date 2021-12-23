@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-23T03:13:15.024Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.57" etag="ihn7LlivE5mIy6Pha3Mq" version="16.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-23T07:05:02.697Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.57" etag="AzX6lYCgXpB6dydWt7Lq" version="16.0.0" type="github">
   <diagram id="cXc33DGXLgx8d8EKlPw0" name="Page-1">
     <mxGraphModel dx="4061" dy="2016" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1165,6 +1165,15 @@
         <mxCell id="gS3lgQ0bvfWNoaPxvp5E-352" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;" edge="1" parent="1" source="gS3lgQ0bvfWNoaPxvp5E-336" target="gS3lgQ0bvfWNoaPxvp5E-349">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-360" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="gS3lgQ0bvfWNoaPxvp5E-336" target="gS3lgQ0bvfWNoaPxvp5E-353">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-364" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="gS3lgQ0bvfWNoaPxvp5E-336" target="gS3lgQ0bvfWNoaPxvp5E-354">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-388" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="gS3lgQ0bvfWNoaPxvp5E-336" target="gS3lgQ0bvfWNoaPxvp5E-374">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gS3lgQ0bvfWNoaPxvp5E-336" value="&lt;span style=&quot;font-size: 14px&quot;&gt;平行结构&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1654" y="1980" width="110" height="40" as="geometry" />
         </mxCell>
@@ -1214,6 +1223,99 @@
         </mxCell>
         <mxCell id="gS3lgQ0bvfWNoaPxvp5E-350" value="&lt;span style=&quot;font-size: 14px&quot;&gt;and,but, or,not only... but alse..., as well as, either or, neither nor,&lt;br&gt;rather than, weather or.&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1250" y="2000" width="430" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-361" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="gS3lgQ0bvfWNoaPxvp5E-353" target="gS3lgQ0bvfWNoaPxvp5E-355">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-362" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;" edge="1" parent="1" source="gS3lgQ0bvfWNoaPxvp5E-353" target="gS3lgQ0bvfWNoaPxvp5E-356">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-365" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="gS3lgQ0bvfWNoaPxvp5E-353" target="gS3lgQ0bvfWNoaPxvp5E-358">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-353" value="&lt;span style=&quot;font-size: 14px&quot;&gt;either...or...&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1460" y="2120" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-370" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;" edge="1" parent="1" source="gS3lgQ0bvfWNoaPxvp5E-354" target="gS3lgQ0bvfWNoaPxvp5E-366">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-371" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;" edge="1" parent="1" source="gS3lgQ0bvfWNoaPxvp5E-354" target="gS3lgQ0bvfWNoaPxvp5E-368">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-354" value="&lt;span style=&quot;font-size: 14px&quot;&gt;either&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1460" y="2290" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-355" value="&quot;要么...要么...“，”或者...或者...&quot;,表示两者之一" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1250" y="2090" width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-356" value="连接主语时用谓语动词“就近原则”" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1250" y="2150" width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-357" value="Either you or I am going there tomorrow." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-870" y="2150" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-358" value="疑问句用“前向就近原则”" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1250" y="2210" width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-359" value="Do either you or he have lunch at school？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-870" y="2210" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-372" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="gS3lgQ0bvfWNoaPxvp5E-366" target="gS3lgQ0bvfWNoaPxvp5E-367">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-366" value="&lt;span style=&quot;font-size: 14px&quot;&gt;肯定句，表示“两个中任何一个”&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1250" y="2270" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-367" value="&lt;span style=&quot;font-size: 14px&quot;&gt;There are many shops&amp;nbsp; on either side of the road.&lt;br&gt;=&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;There are many shops&amp;nbsp; on both side of the road.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-870" y="2270" width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-373" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;" edge="1" parent="1" source="gS3lgQ0bvfWNoaPxvp5E-368" target="gS3lgQ0bvfWNoaPxvp5E-369">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-368" value="&lt;span style=&quot;font-size: 14px&quot;&gt;否定句，表示“也”&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1250" y="2330" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-369" value="If&amp;nbsp; you dont&amp;nbsp; there ，I won&#39;t ,either." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-870" y="2330" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-378" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="gS3lgQ0bvfWNoaPxvp5E-374" target="gS3lgQ0bvfWNoaPxvp5E-376">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-384" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;" edge="1" parent="1" source="gS3lgQ0bvfWNoaPxvp5E-374" target="gS3lgQ0bvfWNoaPxvp5E-380">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-385" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="gS3lgQ0bvfWNoaPxvp5E-374" target="gS3lgQ0bvfWNoaPxvp5E-381">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-374" value="&lt;span style=&quot;font-size: 14px&quot;&gt;neither...nor...&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1460" y="2480" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-379" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;" edge="1" parent="1" source="gS3lgQ0bvfWNoaPxvp5E-376" target="gS3lgQ0bvfWNoaPxvp5E-377">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-376" value="&lt;span style=&quot;font-size: 14px&quot;&gt;表示“既不...也不...”，可以连接任意两个并列成分&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1250" y="2400" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-377" value="&lt;span style=&quot;font-size: 14px&quot;&gt;Neither dad nor mom is at home.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-870" y="2400" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-386" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;" edge="1" parent="1" source="gS3lgQ0bvfWNoaPxvp5E-380" target="gS3lgQ0bvfWNoaPxvp5E-382">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-380" value="&lt;span style=&quot;font-size: 14px&quot;&gt;Neither做主语表示“两者中没有一个“&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1250" y="2470" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-387" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="gS3lgQ0bvfWNoaPxvp5E-381" target="gS3lgQ0bvfWNoaPxvp5E-383">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-381" value="&lt;span style=&quot;font-size: 14px&quot;&gt;Neither/Nor + 助动词/情态动词/be动词+主语，表示一个人没做某事儿，另一个也没同类的事儿 ，进行简略回答&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1250" y="2530" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-382" value="&lt;span style=&quot;font-size: 14px&quot;&gt;Neither of them likes football.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-870" y="2470" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gS3lgQ0bvfWNoaPxvp5E-383" value="&lt;span style=&quot;font-size: 14px&quot;&gt;He dosen&#39;t go to school by bike,&lt;br&gt;Neither/Nor do I.&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-870" y="2540" width="210" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
